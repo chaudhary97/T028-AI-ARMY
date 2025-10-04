@@ -1,7 +1,5 @@
 Team name:- AI ARMY
 Team ID:- T028
-Team Leader : Tanu
-team member:Ankit ,Himanshu, Chirag
 Problem statement:AI-based drop-out
 prediction and counseling
 system
